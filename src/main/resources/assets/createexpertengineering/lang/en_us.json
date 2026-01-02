@@ -1,0 +1,12 @@
+{
+  "item.createexpertengineering.kinetic_mechanism": "Andesite Mechanism",
+  "item.createexpertengineering.sealed_mechanism": "Sealed Mechanism",
+  "item.createexpertengineering.sturdy_mechanism": "sturdy Mechanism",
+
+  "block.createexpertengineering.andesite_machine": "Andesite Machine",
+  "block.createexpertengineering.copper_machine": "Copper Machine",
+  "block.createexpertengineering.brass_machine": "Brass Machine",
+
+  "creative.tab.createexpertengineering.machines": "Machines",
+  "creative.tab.createexpertengineering.mechanics": "Mechanisms"
+}
